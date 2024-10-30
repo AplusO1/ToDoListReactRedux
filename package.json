@@ -7,6 +7,7 @@
     "start": "webpack serve --config webpack/webpack.config.js --env env=dev",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://apluso1.github.io/ToDoListReactRedux",
   "keywords": [],
   "author": "",
   "license": "ISC",
